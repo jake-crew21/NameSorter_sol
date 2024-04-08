@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NameSorter", "NameSorter\NameSorter.csproj", "{703A0FFC-6135-42CF-8F14-51ED406E9BFE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NameSorter.nUnitTests", "NameSorter.nUnitTests\NameSorter.nUnitTests.csproj", "{CB85DAEE-D3A1-4675-96AE-196B72E93B75}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{703A0FFC-6135-42CF-8F14-51ED406E9BFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{703A0FFC-6135-42CF-8F14-51ED406E9BFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{703A0FFC-6135-42CF-8F14-51ED406E9BFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{703A0FFC-6135-42CF-8F14-51ED406E9BFE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CB85DAEE-D3A1-4675-96AE-196B72E93B75}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CB85DAEE-D3A1-4675-96AE-196B72E93B75}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CB85DAEE-D3A1-4675-96AE-196B72E93B75}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CB85DAEE-D3A1-4675-96AE-196B72E93B75}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E88A5E08-7F96-480E-AE49-E38D3F4D45E4}
+	EndGlobalSection
+EndGlobal
